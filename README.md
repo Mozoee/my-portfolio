@@ -1,4 +1,4 @@
-# Muhammad Maouz Qazi's Portfolio
+# Mozoee's Portfolio
 
 This is my professional portfolio using AWS and ReactJS.
 
